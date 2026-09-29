@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY_ID=AKIA2E0A8F3B9C1D7K4M
+GITHUB_TOKEN=ghp_1234567890abcdefghijklmnopqrstuvwxyz
+DB_URL=postgres://admin:SenhaForte123@db.local:5432/prod
